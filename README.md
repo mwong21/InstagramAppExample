@@ -1,7 +1,6 @@
-Instagram Example
+COGS 121 SP14
 ===========
 
-Discussion 1:
+Assignment 0
 
-Instagram example for COGS 121
-Every commit will provide a step by step introduction to creating a web application overview.
+Name:  Melissa Wong
